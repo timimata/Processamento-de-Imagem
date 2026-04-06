@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.DS_Store
+desktop.ini
+
+# NuGet packages (restore via dotnet restore)
+packages/
+!packages/*.nupkg
+
+# Compiled resources
+*.aps
+*.ncb
+*.pgc
+*.pgd
+*.plg
+*.opt
